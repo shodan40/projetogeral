@@ -1,0 +1,18 @@
+{
+    "files.exclude": {
+
+        "_support": true,
+        "system": true,
+        "writable": true,
+
+        "app/ThirdParty": true,
+        "app/Language": true,
+        "app/Filters": true,
+        "app/Helpers": true,
+        "app/Libraries": true,
+        "app/Views/errors": true,
+        "**/index.html": true,
+        "**/.gitkeep": true
+        
+    }
+}
